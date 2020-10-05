@@ -24,3 +24,6 @@
 >## Author
 >• GitHub [@AlvvxL](https://github.com/AlvvxL) | [@Allvaa](https://github.com/Allvaa)
 >• Discord [@allvzx#6263]()
+
+
+[![Run on Repl.it](https://repl.it/badge/github/AlvvxL/lavalink-musicbot)](https://repl.it/github/AlvvxL/lavalink-musicbot)
